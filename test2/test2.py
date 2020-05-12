@@ -1,4 +1,3 @@
-from __future__ import absolute_import
 # from test1.test1 import test1
 
 
